@@ -1,31 +1,6 @@
 {
   "posts": [
-    {
-      "id": 6,
-      "imageUrl": "/assets/image/offers/06.jpg",
-      "name": "2021 Toyota Camry 2.5 D-4S",
-      "description": "Used • 27,057 mi • Petrol",
-      "price": {
-        "USD": "$ 42,995",
-        "EUR": "€ 44,995",
-        "GBP": "£ 47,995"
-      },
-      "discount": "49,290",
-      "ship": 0,
-      "added": "Jul 22, 2023",
-      "views": 242,
-      "properties": {
-        "make": "Toyota",
-        "model": "Camry",
-        "year": 2021,
-        "color": "Black",
-        "type": "Sedan",
-        "kilometers": "25,000",
-        "wheels": "18´",
-        "location": "Kiev",
-        "isExport": true
-      }
-    },
+
     {
       "id": 19,
       "imageUrl": "/assets/image/offers/19.jpg",

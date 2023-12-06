@@ -4,15 +4,7 @@
     {
       "id": 19,
       "imageUrl": "/assets/image/offers/19.jpg",
-      "name": "2018 Kia Stinger GT2",
-      "description": "Used • 27,057 mi • Petrol",
-      "price": {
-        "USD": "$ 36,895",
-        "EUR": "€ 38,195",
-        "GBP": "£ 40,195"
-      },
-      "discount": "42,290",
-      "ship": 2
+      "name": "2018 Kia Stinger GT2"
     }
   ]
 }

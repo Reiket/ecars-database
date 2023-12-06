@@ -43,7 +43,6 @@
   "offers": [
     {
       "id": 1,
-      "parentId": 1,
 
       "imageUrl": "/assets/image/offers/01.png",
       "name": "2021 Genesis GV80 2.5T",
@@ -71,7 +70,6 @@
     },
     {
       "id": 2,
-      "parentId": 2,
 
       "imageUrl": "/assets/image/offers/02.png",
       "name": "2019 Mitsubishi Outlander Sport 2.0 SE",
@@ -99,7 +97,6 @@
     },
     {
       "id": 3,
-      "parentId": 3,
       "imageUrl": "/assets/image/offers/03.png",
       "name": "2019 BMW 640 Gran Turismo i xDrive",
       "description": "Used • 27,057 mi • Petrol",
